@@ -25,4 +25,8 @@ Performing Statistical analysis for AutosRUs'
 (at a significance level of .05)
 
 
+## Study Design: MechaCar vs Competition
 
+* Another thing that could be considered vs the competition in regards to MPG is the typpe and size of the tires on our Mecha Car vs the competition
+* The null hypothesis would be that tire size and type dont make a difference while the alternative hypothesis would be that there is a difference. 
+* A statistical test would be looking at the data for the different types of tires that could possible affect how the car drives according to MPG. For example, tire weight, tire track, and tire life-span.
